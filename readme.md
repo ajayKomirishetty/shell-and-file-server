@@ -1,25 +1,3 @@
-Assignment 3 (CS 464)
-
-Submitted by:
-
-1.Name: Komirishetty Ajay
- Student ID : 002279413
- Email ID: AKOMIRISHETT20@UBishops.ca , komirishettyajay@gmail.com
-
-2.Name: Mantha Soma Sundar Srikar
-  Student ID: 002279323
-  Email ID: SMANTHA20@UBishops.ca , srikarmantha26@gmail.com
-
-3. Name: Lingarao Yechuri
-  Student ID: 002270285
-  Email ID: LYECHURI19@UBishops.ca 
-
-4. Name: Siva Sai Dinesh Movva
-  Student ID: 002279577
-  Email ID: SMOVVA20@UBishops.ca 
-
-
-
 
 Contents:
 
