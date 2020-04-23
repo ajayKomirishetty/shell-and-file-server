@@ -1,0 +1,38 @@
+Incoming client.
+.................open files............... 1
+fp of current file is 6
+.................open files............... 1
+reached check if file opened
+filename is €gÚËn, 	 current file is  gÚËn	 open fils is 1
+fp of current file is 6
+file opened value is 0
+file is already opened by another client
+.................open files............... 1
+fp of current file is 6
+.................open files............... 1
+Connection closed by client.
+Outgoing client removed.
+Incoming client.
+number of readers are 0
+number of readers are 1
+retreiving data from fd: 6
+100 bytes read from file
+Connection closed by client.
+Outgoing client removed.
+Incoming client.
+opned files is 1
+fp is 6	current file id is 6
+I have found
+ index is 0
+deleted from struct successfully
+no of open files before close is 1
+closed fd : 6	 and return from close is 0
+no of open files after close is 0
+Connection closed by client.
+Outgoing client removed.
+Incoming client.
+Connection closed by client.
+Outgoing client removed.
+Incoming client.
+Connection closed by client.
+Outgoing client removed.
